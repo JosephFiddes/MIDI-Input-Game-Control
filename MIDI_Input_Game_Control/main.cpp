@@ -5,7 +5,11 @@ Written by Joseph Fiddes.
 Uses the following nonstandard libraries:
 RtMidi (unused)
 Windows Multimedia API
-conio.h
+conio.h (probably unused, it's been a while since I've worked on this)
+
+TO DO:
+ - Generalize (currently works specifically with drum input and "Celeste" controls).
+ - Check if conio.h is actually used.
 
 */
 
